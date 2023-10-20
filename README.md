@@ -11,5 +11,6 @@ Instructions on how to install *KeyDetective*
 ```bash
 git clone https://github.com/N1KHIL-KUMAR/KeyDetective.git
 cd KeyDetective
+sudo pip install -r requirements.txt
 chmod +x KeyDetective.py
 ```

